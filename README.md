@@ -1,1 +1,1 @@
-llama.cpp + Irodori-TTS ServerŒˆ‚ß‘Å‚¿
+llama.cpp + Irodori-TTS Serveræ±ºã‚æ‰“ã¡
